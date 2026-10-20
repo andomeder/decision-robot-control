@@ -1,0 +1,13 @@
+decision-robot-control
+Copyright 2026 William Obino
+
+This product includes three ONNX policies from Pollen Robotics,
+published under the Apache License, Version 2.0:
+
+  policies/velstand.onnx
+  policies/alpha_sitstand.onnx
+  policies/alpha_ground_pick.onnx
+
+MicroDuck meshes are not in this repository. They live in
+pollen-robotics/microduck_rl and are licensed CC BY-NC-SA 4.0.
+Point MICRODUCK_SCENE at scene.xml from that clone.
